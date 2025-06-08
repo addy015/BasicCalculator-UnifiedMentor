@@ -21,7 +21,7 @@ A sleek web-based calculator built with ```HTML```, ```CSS```, and ```JavaScript
    - **Result**: Hit ```=``` or ```Enter``` to calculate  
    - **Reset**: ```C``` or ```c``` clears display  
    - **Delete**: ```⌫``` or ```Backspace``` removes last input
-3. **Percentage**  
+3. **Percentage (Additional Feature)**  
    - **Add/Subtract**: ```100 + 20% =``` → ```120```  
    - **Multiply**: ```200 * 25% =``` → ```50```
 4. **Keyboard**  
